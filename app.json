@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "challenge_compasso_react_native",
+    "slug": "challenge_compasso_react_native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "challenge_compasso_react_native"
+}
